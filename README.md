@@ -13,7 +13,7 @@ The Random Forest algorithm, an ensemble learning technique that combines the pr
 ### Dependencies
 The project requires the following dependencies to be installed:
 
-- Python 3.x 
+- Python 3.0 
  
 - scikit-learn 
 
